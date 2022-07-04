@@ -125,7 +125,7 @@ body{
 /*Styling content of 4 boxes*/
 .four-boxes{
     display: flex;
-    margin: 94px 215px;
+    margin: 0 215px;
 }
 .four-boxes li{
     margin-right: 30px;
@@ -193,14 +193,12 @@ body{
     line-height: 1.17;
     letter-spacing: var(--letter-spacing-one);
     color: var(--font-color-headers);
-    margin-top: 94px;
-    margin-bottom: 50px;
+    padding-bottom: 50px;
     text-align: center;
 }
 .our-team-box{
     display: flex;
     justify-content: center;
-    padding-bottom: 94px;
 }
 .our-team-item:nth-child(-n+3){
       margin-right: 30px;
