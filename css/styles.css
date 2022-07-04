@@ -172,7 +172,7 @@ body{
 .picture{
    
     max-width: 370px;
-    /* max-height: 294px; */
+
 }
 .picture-box-item{
     margin-right: 30px;
@@ -207,7 +207,7 @@ body{
 }
 .our-team-item{
     max-width: 270px;
-    /* max-height: 368px; */
+
     background: var(--background-color-body);
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 0px 0px 4px 4px;
@@ -231,7 +231,7 @@ body{
 }
 .picture-team{
     max-width: 270px;
-    /* height: 260px; */
+
 }
 /*Footer*/
 .footer-box{
@@ -308,7 +308,7 @@ body{
 .portfolio-item{
     flex-basis: calc(100%-60px)/3;
     max-width: 370px;
-    /* height: 404px; */
+
     border-width: 1px;
     border-color: var(--background-color-three);
     border-style: solid;
@@ -316,7 +316,7 @@ body{
 }
 .picture-portfolio{
     max-width: 370px;
-    /* max-height: 294px; */
+
 }
 .cont-margin{
     margin-left: 215px;
