@@ -267,7 +267,6 @@ body{
 .footer-item:nth-child(2){
     margin-top: 9px;
     margin-bottom: 9px;
-    text-decoration: underline;
     letter-spacing: var(--letter-spacing-one);
 }
 
