@@ -306,14 +306,12 @@ body{
 .portfolio-item{
     flex-basis: calc(100%-60px)/3;
     max-width: 370px;
-
-    border-width: 1px;
-    border-color: var(--background-color-three);
-    border-style: solid;
+      
 
 }
 .picture-portfolio{
     max-width: 370px;
+    display: block;
 
 }
 .cont-margin{
@@ -334,7 +332,11 @@ body{
     color: var(--font-color-text);
  }
  .portfolio-item-descr-cont{
-    margin: 20px 24px;
+    padding: 20px 24px;
+    border-width: 1px;
+    border-color: var(--background-color-three);
+    border-style: solid;
+    border-top: none;
  }
 .space{
     margin-bottom: 94px;
